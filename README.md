@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maty714
+- 👋 Hi, I’m Matt
 - 👀 I’m interested in ... Becoming a software engineer
 - 🌱 I’m currently learning ... Docker, Python, Kubernetes
 - 🌱 I'm currently using C# .NET to build web applications
